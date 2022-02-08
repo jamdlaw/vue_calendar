@@ -1,5 +1,6 @@
 // app.js
 // update 05/11/2018 jlawrence: cleaned indents and removed events array from the data object  back to the fetchEvents function  
+// added a note so I could commit something
 new Vue({
   // We want to target the div with an id of 'events'
   el: '#events',
